@@ -1,6 +1,6 @@
-Hi, my name is Todor. I've been studying to become a developer for about 10 months now.
+Hi, my name is Todor.
 
-I have completed the C# course at SoftUni and I'm looking for my first position in the field.
+I have completed the C# course at SoftUni and I'm currently working as a Software Engineer.
 
 I've mosly worked with C# and SQL making apps using ASP.NET Core, but I have been learning a bit of HTML/CSS and JavaScript on the side.
 
